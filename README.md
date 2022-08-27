@@ -1,3 +1,5 @@
+![crop image](https://user-images.githubusercontent.com/34388197/187048344-039e1b2d-ccd6-4d43-9c8f-6251398bc8af.jpeg)
+
 <h1 align="center">Hi 👋, I'm Shashank Bhushan Shukla</h1>
 <h3 align="center">A passionate Software Engineer from India. I have completed my masters from J.S.S Academy of Technical Education Noida.</h3>
 
